@@ -9,7 +9,8 @@ Install on both Client and Server.
 
 ## Cravings
 
-Only adds cravings if you've had the nicotine effect. Don't start and you won't get cravings.
+Only adds cravings if you've had the nicotine effect. Don't start and you won't get cravings. \
+Cravings don't occur in Creative or Spectator.
 
 ### Mild: 10 minutes after last smoke
 - Hunger
