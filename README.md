@@ -1,4 +1,4 @@
-# Tobacconist: Packs
+# Tobacconist: Cravings
 
 This is a 3rd party add-on to the [Tobacconist](https://github.com/diggydwarff/tobacconist) Minecraft mod. \
 This mod adds nicotine cravings.
